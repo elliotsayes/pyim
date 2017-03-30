@@ -1,6 +1,14 @@
 # Python Instant Messenger
+**Note: This program relies on server that is currently offline :(**
+
 Python/Web 2.0 Instant messenger I made for a uni project. Relies on a special server and communicates weirdly on top of the HTTP protocol, and uses an SQLite database to log messages.
+
 Requires python 2.7 with cherrypy library. Tested on ubuntu.
+
+## Screenshots:
+![login](screenshots/login.png)
+![messenger](screenshots/messenger.png)
+
 Original readme below
 
 * * *
