@@ -1,0 +1,38 @@
+body {
+    background-color: #DC9418;
+}
+
+div#loginBox {
+    width: 100%;
+    max-width: 300px;
+    height: 100%;
+    max-height: 250px;
+    
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10%;
+    
+    padding: 20px;
+    
+    background-color: #B0740D;
+    
+    border: solid 5px #8A5700;
+    
+    /* default text formatting */
+    font-family: serif, Georgia, "Times New Roman", Times; 
+    font-size: 15px; 
+    font-weight: medium; 
+    color: #0F0F0F; 
+}
+
+div#loginBox h1{ 
+    font-family: Georgia, "Times New Roman", Times, serif; 
+    font-size: 18px;
+    font-weight: bold; 
+    color: #000000; 
+}
+
+form span.label {
+    display: inline-block;
+    width: 80px;
+}
